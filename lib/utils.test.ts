@@ -1,4 +1,4 @@
-import { test, expect, it } from "vitest";
+import { test, expect, it } from "bun:test";
 import { welcomeMessage } from "./utils";
 
 test("utils", () => {
