@@ -1,5 +1,11 @@
 # shadcn-lib
 
+## 0.1.1
+
+### Patch Changes
+
+- 476493c: patch
+
 ## 0.1.0
 
 ### Minor Changes
