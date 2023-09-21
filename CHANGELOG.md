@@ -1,5 +1,11 @@
 # shadcn-lib
 
+## 0.2.0
+
+### Minor Changes
+
+- 4700de1: working css-modules support with bun
+
 ## 0.1.1
 
 ### Patch Changes
