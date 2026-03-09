@@ -1,4 +1,5 @@
-import { Button } from "../lib";
+import { Button, Link as NewLink } from "shadcn-lib";
+import { Link } from "../lib";
 import "./App.css";
 
 function App() {
@@ -34,6 +35,8 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">Click on the logos to learn more</p>
+      <Link href="https://vitejs.dev">Vite Docs</Link>
+      <NewLink href="https://vitejs.dev">Vite Docs</NewLink>
     </div>
   );
 }
